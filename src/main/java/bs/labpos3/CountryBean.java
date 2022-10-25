@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author student
+ * @author HP850
  */
 public class CountryBean implements Serializable {
     private String code;
